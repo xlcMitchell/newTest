@@ -11,7 +11,8 @@ public class Main {
 		 price = scanner.nextDouble();
 		 
 		 
-		         
+		    //random comment
+//hello    
 		         
 		  double taxToPay;
 		  taxToPay = price * tax;
