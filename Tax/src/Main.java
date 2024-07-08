@@ -13,7 +13,7 @@ public class Main {
 		 
 		    //random comment
 //hello    
-		         
+		         //new update test
 		  double taxToPay;
 		  taxToPay = price * tax;
 		  
